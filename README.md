@@ -11,6 +11,7 @@ Learn how to use Python and Google Sheets API to read and write data to a spread
 Resources:
 
 https://www.youtube.com/watch?v=4ssigWmExak
+https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
 
 
 
